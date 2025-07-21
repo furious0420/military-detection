@@ -1,4 +1,4 @@
-# 🎯 YOLO Multi-Class Detection System
+#  YOLO Military Detection System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org)
@@ -7,7 +7,7 @@
 
 A high-performance multi-class object detection system built with YOLOv8, capable of detecting **humans, animals, vehicles, drones, and weapons** in real-time with **97.99% mAP@0.5** accuracy.
 
-## 🌟 **Key Features**
+##  **Key Features**
 
 - 🎯 **Multi-Class Detection**: 5 classes (human, animal, vehicle, drone, weapon)
 - ⚡ **Real-Time Performance**: 70ms inference time
@@ -16,7 +16,7 @@ A high-performance multi-class object detection system built with YOLOv8, capabl
 - 📱 **Cross-Platform**: Works on any device with PyTorch
 - 🔥 **High Accuracy**: 97.99% mAP@0.5, 76.64% mAP@0.5:0.95
 
-## 📊 **Model Performance**
+##  **Model Performance**
 
 | Metric | Score |
 |--------|-------|
@@ -27,7 +27,7 @@ A high-performance multi-class object detection system built with YOLOv8, capabl
 | Inference Time | **~70ms** |
 | Model Size | **11.78 MB** |
 
-## 🚀 **Quick Start**
+##  **Quick Start**
 
 ### **Installation**
 ```bash
@@ -66,7 +66,7 @@ for result in results:
 python universal_detector.py "path/to/your/image.jpg"
 ```
 
-## 🎨 **Class Color Coding**
+##  **Class Color Coding**
 
 | Class | Color | Detection Focus |
 |-------|-------|----------------|
@@ -102,7 +102,7 @@ yolo-multiclass-detection/
     └── visualization.py           # Visualization tools
 ```
 
-## 🔧 **Usage Examples**
+##  **Usage Examples**
 
 ### **1. Basic Detection**
 ```python
@@ -130,15 +130,15 @@ results = model.predict('video.mp4', save=True)
 results = model.predict(source=0, show=True)
 ```
 
-## 🎯 **Applications**
+##  **Applications**
 
-- 🛡️ **Security & Surveillance**: Perimeter monitoring, threat detection
-- 🚁 **Aerospace & Defense**: Airspace monitoring, UAV detection
-- 🏭 **Industrial Safety**: Workplace monitoring, safety compliance
-- 🔬 **Research**: Computer vision, AI development
-- 📱 **Mobile Apps**: Real-time object detection applications
+-  **Security & Surveillance**: Perimeter monitoring, threat detection
+-  **Aerospace & Defense**: Airspace monitoring, UAV detection
+-  **Industrial Safety**: Workplace monitoring, safety compliance
+-  **Research**: Computer vision, AI development
+-  **Mobile Apps**: Real-time object detection applications
 
-## 📈 **Training Details**
+##  **Training Details**
 
 - **Architecture**: YOLOv8n (nano)
 - **Input Size**: 640×640 pixels
@@ -148,7 +148,7 @@ results = model.predict(source=0, show=True)
 - **Dataset**: Custom multi-class dataset
 - **Augmentation**: HSV, rotation, scaling, flipping
 
-## 🚀 **Advanced Features**
+##  **Advanced Features**
 
 ### **Smart Classification**
 - Automatic human/animal disambiguation
@@ -168,14 +168,14 @@ results = model.predict(source=0, show=True)
 - Class legend overlay
 - Detection statistics
 
-## 📚 **Documentation**
+##  **Documentation**
 
 - [📖 Training Guide](docs/TRAINING.md) - How to train your own model
 - [🔧 API Reference](docs/API.md) - Complete API documentation
 - [🚀 Deployment Guide](docs/DEPLOYMENT.md) - Production deployment
 - [💡 Examples](examples/) - Code examples and tutorials
 
-## 🤝 **Contributing**
+##  **Contributing**
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
@@ -197,9 +197,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Contact**
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **Project Link**: https://github.com/YOUR_USERNAME/yolo-multiclass-detection
+- **Author**: Allan Suraj
+- **Email**: allansuraj.4821@gmail.com
+- **Project Link**: https://github.com/furious0420/military-detection
 
 ## 🌟 **Star History**
 
@@ -207,4 +207,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**⭐ If this project helped you, please give it a star! ⭐**
+** If this project helped you, please give it a star! much appreciated <3**
