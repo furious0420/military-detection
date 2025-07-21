@@ -1,0 +1,34 @@
+# Core dependencies
+ultralytics>=8.0.0
+torch>=1.9.0
+torchvision>=0.10.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.3.0
+Pillow>=8.0.0
+PyYAML>=5.4.0
+
+# Optional dependencies for advanced features
+onnx>=1.12.0
+onnxruntime>=1.12.0
+tensorboard>=2.8.0
+seaborn>=0.11.0
+tqdm>=4.62.0
+
+# Development dependencies (optional)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+pre-commit>=2.15.0
+
+# Export format dependencies (optional)
+# Uncomment if you need specific export formats
+# tensorflow>=2.8.0  # For TensorFlow Lite export
+# coremltools>=5.0.0  # For CoreML export (macOS only)
+# openvino-dev>=2022.1.0  # For OpenVINO export
+torch
+torchvision
+opencv-python
+PyYAML
+Pillow

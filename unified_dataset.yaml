@@ -1,0 +1,13 @@
+path: B:\eoir\unified_dataset
+train: B:\eoir\unified_dataset/train/images
+val: B:\eoir\unified_dataset/val/images
+test: B:\eoir\unified_dataset/test/images
+
+names:
+  0: human
+  1: animal
+  2: vehicle
+  3: drone
+  4: weapon
+
+nc: 5
