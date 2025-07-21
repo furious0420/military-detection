@@ -201,10 +201,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: allansuraj.4821@gmail.com
 - **Project Link**: https://github.com/furious0420/military-detection
 
-## 🌟 **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/yolo-multiclass-detection&type=Date)](https://star-history.com/#YOUR_USERNAME/yolo-multiclass-detection&Date)
-
----
 
 ** If this project helped you, please give it a star! much appreciated <3**
