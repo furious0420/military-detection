@@ -1,4 +1,4 @@
-# Contributing to YOLO Multi-Class Detection
+# Contributing to Military Detection System
 
 Thank you for your interest in contributing to this project! 🎉
 
@@ -8,8 +8,8 @@ Thank you for your interest in contributing to this project! 🎉
 - Click the "Fork" button at the top right of the repository page
 - Clone your fork locally:
 ```bash
-git clone https://github.com/YOUR_USERNAME/yolo-multiclass-detection.git
-cd yolo-multiclass-detection
+git clone https://github.com/YOUR_USERNAME/military-detection.git
+cd military-detection
 ```
 
 ### 2. Set Up Development Environment

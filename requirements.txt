@@ -22,6 +22,12 @@ black>=21.0.0
 flake8>=3.9.0
 pre-commit>=2.15.0
 
+# Streamlit Web Application dependencies
+streamlit>=1.28.0
+streamlit-webrtc>=0.47.0
+plotly>=5.15.0
+av>=10.0.0
+
 # Export format dependencies (optional)
 # Uncomment if you need specific export formats
 # tensorflow>=2.8.0  # For TensorFlow Lite export

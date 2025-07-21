@@ -17,14 +17,14 @@ def read_requirements():
         return [line.strip() for line in fh if line.strip() and not line.startswith("#")]
 
 setup(
-    name="yolo-multiclass-detection",
+    name="military-detection",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
-    description="High-performance multi-class object detection system with YOLOv8",
+    author="furious0420",
+    author_email="furious0420@github.com",
+    description="Military-grade object detection system with YOLOv8",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/YOUR_USERNAME/yolo-multiclass-detection",
+    url="https://github.com/furious0420/military-detection",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -44,8 +44,8 @@ setup(
     install_requires=read_requirements(),
     keywords="yolo, object-detection, computer-vision, pytorch, deep-learning, ai",
     project_urls={
-        "Bug Reports": "https://github.com/YOUR_USERNAME/yolo-multiclass-detection/issues",
-        "Source": "https://github.com/YOUR_USERNAME/yolo-multiclass-detection",
-        "Documentation": "https://github.com/YOUR_USERNAME/yolo-multiclass-detection/blob/main/README.md",
+        "Bug Reports": "https://github.com/furious0420/military-detection/issues",
+        "Source": "https://github.com/furious0420/military-detection",
+        "Documentation": "https://github.com/furious0420/military-detection/blob/main/README.md",
     },
 )
